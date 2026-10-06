@@ -5,6 +5,7 @@
 - **Base URL:** `http://localhost:8787/api`
 - **Runtime:** Cloudflare Workers local dev (`wrangler dev`, Miniflare, and local D1 SQLite)
 - **Test date:** 2026-10-06
+- **Live URL (deployed):** `https://equipment-booking-api.ayeminaung-mfu.workers.dev/api`
 
 ## Results
 
