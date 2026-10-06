@@ -1,0 +1,8 @@
+name = "equipment-booking-api"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "booking-db"
+database_id = "91e7ec64-0cc3-4e56-aa5b-ee71f652328f"
